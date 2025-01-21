@@ -7,4 +7,4 @@
 
 ------------
 <br></br>
-![pincesslucy's github stats](https://github-readme-stats.vercel.app/api?username=pincesslucy&show_icons=true)
+![anton9890's github stats](https://github-readme-stats.vercel.app/api?username=anton9890&show_icons=true)
